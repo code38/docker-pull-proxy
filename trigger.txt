@@ -13,3 +13,5 @@ langgenius/dify-sandbox:0.2.1 registry.cn-zhangjiakou.aliyuncs.com/egt-boot/dify
 ubuntu/squid:latest registry.cn-zhangjiakou.aliyuncs.com/egt-boot/squid:latest
 
 nginx:latest registry.cn-zhangjiakou.aliyuncs.com/egt-boot/nginx:latest
+
+jenkins/jenkins:jdk17 registry.cn-zhangjiakou.aliyuncs.com/egt-boot/jenkins:jdk17
