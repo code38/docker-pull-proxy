@@ -1,2 +1,11 @@
 gitlab/gitlab-ce:nightly registry.cn-shanghai.aliyuncs.com/xteq_default/gitlab-ce:nightly
 
+nginx:stable-perl registry.cn-shanghai.aliyuncs.com/xteq_default/nginx:stable-perl
+
+archlinux:latest registry.cn-shanghai.aliyuncs.com/xteq_default/archlinux:latest
+
+jenkins/jenkins:latest-jdk17 registry.cn-shanghai.aliyuncs.com/xteq_default/jenkins:latest-jdk17
+
+openjdk:8-jdk-alpine3.7 registry.cn-shanghai.aliyuncs.com/xteq_default/openjdk:8-jdk-alpine3.7
+
+openjdk:17.0-jdk registry.cn-shanghai.aliyuncs.com/xteq_default/openjdk:17.0-jdk
