@@ -10,10 +10,10 @@ openjdk:8-jdk-alpine3.7 registry.cn-shanghai.aliyuncs.com/xteq_default/openjdk:8
 
 openjdk:17.0-jdk registry.cn-shanghai.aliyuncs.com/xteq_default/openjdk:17.0-jdk
 
-dockurr/windows:latest registry.cn-shanghai.aliyuncs.com/xteq_default/dockurr/windows:latest
+dockurr/windows:latest registry.cn-shanghai.aliyuncs.com/xteq_default/windows:latest
 
-qemux/qemu-docker:latest registry.cn-shanghai.aliyuncs.com/xteq_default/qemux/qemu-docker:latest
+qemux/qemu-docker:latest registry.cn-shanghai.aliyuncs.com/xteq_default/qemu-docker:latest
 
-dockurr/macos:latest registry.cn-shanghai.aliyuncs.com/xteq_default/dockurr/macos:latest
+dockurr/macos:latest registry.cn-shanghai.aliyuncs.com/xteq_default/macos:latest
 
-dockurr/samba:latest registry.cn-shanghai.aliyuncs.com/xteq_default/dockurr/samba:latest
+dockurr/samba:latest registry.cn-shanghai.aliyuncs.com/xteq_default/samba:latest
