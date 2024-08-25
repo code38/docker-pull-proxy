@@ -17,3 +17,7 @@ qemux/qemu-docker:latest registry.cn-shanghai.aliyuncs.com/xteq_default/qemu-doc
 dockurr/macos:latest registry.cn-shanghai.aliyuncs.com/xteq_default/macos:latest
 
 dockurr/samba:latest registry.cn-shanghai.aliyuncs.com/xteq_default/samba:latest
+
+bitnami/prometheus:latest registry.cn-shanghai.aliyuncs.com/xteq_default/prometheus:latest
+
+grafana/grafana:latest registry.cn-shanghai.aliyuncs.com/xteq_default/grafana:latest
