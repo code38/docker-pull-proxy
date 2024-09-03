@@ -21,3 +21,6 @@ dockurr/samba:latest registry.cn-shanghai.aliyuncs.com/xteq_default/samba:latest
 prom/prometheus:latest registry.cn-shanghai.aliyuncs.com/xteq_default/prometheus:latest
 
 grafana/grafana:latest registry.cn-shanghai.aliyuncs.com/xteq_default/grafana:latest
+
+serversideup/docker-ssh:latest registry.cn-shanghai.aliyuncs.com/xteq_default/docker-ssh:latest
+
