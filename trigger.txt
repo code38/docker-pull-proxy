@@ -24,3 +24,6 @@ grafana/grafana:latest registry.cn-shanghai.aliyuncs.com/xteq_default/grafana:la
 
 serversideup/docker-ssh:latest registry.cn-shanghai.aliyuncs.com/xteq_default/docker-ssh:latest
 
+qemux/qemu-arm:latest registry.cn-shanghai.aliyuncs.com/xteq_default/qemu-arm:latest
+
+qemux/qemu-docker:latest registry.cn-shanghai.aliyuncs.com/xteq_default/qemu-docker:latest
